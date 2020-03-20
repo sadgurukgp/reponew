@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 64AC-9E09
-
- Directory of C:\Users\Gajanan\Desktop\project2020
-
-03/20/2020  10:40 PM    <DIR>          .
-03/20/2020  10:40 PM    <DIR>          ..
-03/20/2020  10:40 PM                 0 project1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  25,296,326,656 bytes free
+abc 1
